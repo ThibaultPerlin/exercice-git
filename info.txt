@@ -2,13 +2,13 @@ Nom : Perlin
 Prenom : Thibault
 Age : 21
 Ville : Houtkerque
-Alternance en Ingenierie des Données
+Parcours Actuel : Alternance en Ingenierie des Données
 Ecole : EPSI
 Alternance : NeoDT
 
 
 Loisirs :
-Jeux Vidéo
+Jeux Vidéos
 Streaming
 Montage Vidéo
 Montage Photo
