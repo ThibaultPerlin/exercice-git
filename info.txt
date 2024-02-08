@@ -1,0 +1,7 @@
+Nom : Perlin
+Prenom : Thibault
+Age : 21
+Ville : Houtkerque
+Alternance en Ingenierie des Données
+Ecole : EPSI
+Alternance : NeoDT
